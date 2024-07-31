@@ -1,0 +1,17 @@
+Pattern Printing
+
+https://www.geeksforgeeks.org/problems/pattern-printing1347/1
+https://www.geeksforgeeks.org/problems/triangle-pattern-1661718455/0
+https://www.geeksforgeeks.org/problems/triangle-number-1661489840/0
+https://www.geeksforgeeks.org/problems/triangle-pattern/0
+https://www.geeksforgeeks.org/problems/square-pattern/0
+
+https://www.naukri.com/code360/problems/n-triangles_6573689?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/triangle_6573690?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/reverse-number-triangle_6581889?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/increasing-number-triangle_6581893?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/increasing-letter-triangle_6581897?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/reverse-letter-triangle_6581906?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/alpha-ramp_6581888?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+https://www.naukri.com/code360/problems/alpha-triangle_6581429
+https://www.naukri.com/code360/problems/ninja-and-the-star-pattern-i_6581920?count=25&page=1&search=&sort_entity=order&sort_order=ASC
