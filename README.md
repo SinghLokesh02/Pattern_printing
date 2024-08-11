@@ -1,6 +1,6 @@
 # Pattern Printing in C++ Repository
 
-![Patterns]([https://user-images.githubusercontent.com/SinghLokesh02/pattern-printing/main/images/patterns-preview.png](https://www.simplilearn.com/ice9/free_resources_article_thumb/java-pattern-programs-P23%28Updated%29.png))
+![Patterns](https://www.simplilearn.com/ice9/free_resources_article_thumb/java-pattern-programs-P23%28Updated%29.png)
 
 Welcome to the Pattern Printing in C++ Repository! This repository is a treasure trove of elegant and creative pattern printing programs implemented in C++. Whether you're a coding enthusiast looking for aesthetic designs or a programmer aiming to refine your C++ skills, you've come to the right place.
 
